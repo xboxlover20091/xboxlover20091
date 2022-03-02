@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @xboxlover20091
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Programming, Geography and Robotics
+- 🌱 I’m currently learning C# and Python
+- 💞️ I’m looking to collaborate on making games and tweaks for jailbroken iPhones
+- 📫 How to reach me: leonsmrkobrada@gmail.com on Gmail or usercruiser#5354 on Discord
 
 <!---
-xboxlover20091/xboxlover20091 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+this repository is complete trash
 --->
